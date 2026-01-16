@@ -1,10 +1,12 @@
-# Dessin Algorithmique
+# Workshop Esthetique et Algorithmique
 
 ## Mon projet favoris est feuille froissée du jour 3 sur les fractales
 ## Je suis aussi fière du projet libre : Don't put this in the paper shredder, please...
 
-## Projet
-Les fichiers correspondent au premier jour du Workshop
+# Dessin Algorithmique
+
+## Projet 
+Les fichiers correspondent au premier jour du Workshop 
 
 ---
 
@@ -28,5 +30,6 @@ Pour le dessin de la courbe, on parcourt toute la largeur de la page et on dessi
 Ensuite j'ai animé simplement la couleur avec le temps qui parcourt le spectre de couleurs.
 
 Enfin, car trop brouillon, j'ai programmé un effacement des anciennes courbes grâce à un dessin d'un rectangle noir peu opaque qui recouvre l"écran a chaque image ce qui efface les anciennes courbes progressivement.
+
 
 
